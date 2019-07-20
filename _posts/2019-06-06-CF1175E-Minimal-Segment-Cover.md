@@ -5,7 +5,7 @@ title: CF1175E Minimal Segment Cover
 tags: 倍增,线段覆盖
 ---
 
-<a href="http://codeforces.com/contest/1175/problem/E"><font size=5>题目链接</font></a>
+[题目链接](http://codeforces.com/contest/1175/problem/E)
 
 # 题意
 

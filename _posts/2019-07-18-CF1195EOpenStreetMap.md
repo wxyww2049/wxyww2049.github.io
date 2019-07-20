@@ -5,7 +5,7 @@ title: CF1195E OpenStreetMap
 tags: codeforces,单调队列
 ---
 
-<a href="http://codeforces.com/contest/1195/problem/E" target="_blank"><font size=5>题目链接</font></a>
+[题目链接](http://codeforces.com/contest/1195/problem/E)
 
 # 题意
 

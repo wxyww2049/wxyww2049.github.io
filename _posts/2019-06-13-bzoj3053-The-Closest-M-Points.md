@@ -5,7 +5,7 @@ title: bzoj3053 The Closest M Points
 tags: kd-tree,堆
 ---
 
-<a href="https://www.lydsy.com/JudgeOnline/problem.php?id=3053"><font size=5>题目链接</font></a>
+[题目链接](https://www.lydsy.com/JudgeOnline/problem.php?id=3053)
 
 # 题意
 

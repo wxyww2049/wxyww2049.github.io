@@ -5,7 +5,7 @@ title: CF1175F The Number of Subpermutations
 tags: 暴力,rmq
 ---
 
-<a href="http://codeforces.com/contest/1175/problem/F"><font size=5>题目链接</font></a>
+[题目链接](http://codeforces.com/contest/1175/problem/F)
 
 # 题意
 

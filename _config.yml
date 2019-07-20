@@ -1,7 +1,7 @@
 # Basic
 title: wxyww
 subtitle: 一个OIER
-description: 纵豆蔻词工，青楼梦好，难赋深情。
+description: 我们要有最朴素的生活,与最遥远的梦想。即使明日天寒地冻，路远马亡。
 creator: <a href="https://www.wxyww.top">wxyww</a>
 
 url: "https://www.wxyww.top"
@@ -12,7 +12,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
