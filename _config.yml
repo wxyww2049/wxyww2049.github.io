@@ -21,7 +21,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: diary, description: 日记, url: 'https://project.onevcat.com'}
+    - {title: diary, description: 日记, url: 'https://www.cnblogs.com/wxyww/p/diary.html'}
     - {title: picture, description: 收藏的一些图片, url: 'https://img.wxyww.top'}
     - {title: bzoj-data, description: bzoj数据下载, url: 'https://bzoj.wxyww.top'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
@@ -38,9 +38,9 @@ comment:
     
 # Social
 social:
-    weibo: wxyww
+    weibo: wxyww2049
     github: wxyww2049
-    gplus: 107108267983477358170
+    # gplus: 107108267983477358170
     mail: 2049500915@qq.com
 
 # Google Analytics
