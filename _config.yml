@@ -1,11 +1,10 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: wxyww
+subtitle: 一个OIER
+description: 纵豆蔻词工，青楼梦好，难赋深情。
+creator: <a href="https://www.wxyww.top">wxyww</a>
 
-url: "http://vno.onevcat.com"
+url: "https://www.wxyww.top"
 
 permalink: /:year/:month/:title/
 
@@ -18,11 +17,13 @@ cover_color: red
 # The blog button should not be removed.
 blog_button:
     title: Blog
-    description: Visit blog
+    description: 个人博客
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: diary, description: 日记, url: 'https://project.onevcat.com'}
+    - {title: picture, description: 收藏的一些图片, url: 'https://img.wxyww.top'}
+    - {title: bzoj-data, description: bzoj数据下载, url: 'https://bzoj.wxyww.top'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,13 +38,12 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: wxyww
+    github: wxyww2049
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: 2049500915@qq.com
 
 # Google Analytics
 ga:
-    # id: your_ga_id
+    id: wxyww2049
     # host: your_host
