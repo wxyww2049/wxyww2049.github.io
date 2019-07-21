@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-01-01
+date: 2019-07-21
 title: CF1178 F1 Short Colorful Strip
 tags: codeforces,题解
 ---
