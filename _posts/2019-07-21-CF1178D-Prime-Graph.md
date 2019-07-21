@@ -5,6 +5,8 @@ title: CF1178D Prime Graph
 tags: codeforces,题解
 ---
 
+[题目链接](http://codeforces.com/contest/1178/problem/D)
+
 ## 题意
 
 构造一张有$n(3\le n\le 1000)$个点的无向图(无重边和自环)。满足:
