@@ -24,7 +24,6 @@ nav:
     - {title: diary, description: 日记, url: 'https://www.cnblogs.com/wxyww/p/diary.html'}
     - {title: picture, description: 收藏的一些图片, url: 'https://kaxh3c.coding-pages.com/'}
     - {title: bzoj-data, description: bzoj数据下载, url: 'https://vy2eht.coding-pages.com/'}
-    - {title: orz, description: 膜拜大佬, url: 'https://vm6090.coding-pages.com/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
